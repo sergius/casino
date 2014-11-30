@@ -66,7 +66,7 @@ Barbara     8.0         4.0
 
 ---
 
-The solution:
+**The solution**:
 
 * Must use Java.
 * Should build from the command line with Maven.
