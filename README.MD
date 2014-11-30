@@ -4,7 +4,7 @@ functional and/or reactive principles to it. Unfortunately, Java 8 wasn't availa
 pretty much a torture... Definitely improvable :)
 
 TEST INSTRUCTIONS:
-==================
+-----------------
 
 Roulette is a popular casino game. The aim of the exercise is to create a simple command line
 multiplayer version of the game.
@@ -67,7 +67,7 @@ Barbara     8.0         4.0
 ---
 
 How it works:
-=============
+------------
 
 1)It should be started running the class Casino.
 2)If the initial file is not found, it is possible to insert the file path from the console on prompt
