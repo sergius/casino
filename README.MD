@@ -66,6 +66,16 @@ Barbara     8.0         4.0
 
 ---
 
+The solution:
+
+* Must use Java.
+* Should build from the command line with Maven.
+* Must provide a class with a main method (no need to provide a stand alone jar). 
+* Should be thread-safe.
+
+---
+
+
 How it works:
 ------------
 
