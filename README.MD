@@ -3,8 +3,8 @@ coding in Scala, I decided to go back to Java and play a while, seeing if I can 
 functional and/or reactive principles to it. Unfortunately, Java 8 wasn't available yet, so it was
 pretty much a torture... Definitely improvable :)
 
-TEST INSTRUCTIONS:
------------------
+**REQUIREMENTS:**
+
 
 Roulette is a popular casino game. The aim of the exercise is to create a simple command line
 multiplayer version of the game.
