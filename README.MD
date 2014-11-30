@@ -69,9 +69,9 @@ Barbara     8.0         4.0
 How it works:
 ------------
 
-1)It should be started running the class Casino.
-2)If the initial file is not found, it is possible to insert the file path from the console on prompt
-3)If a bet is not valid (not having the format described in the requirements), it is ignored.
-4)If the name of the player who makes the bet corresponds to none from the initial list,
+1. It should be started running the class Casino.
+2. If the initial file is not found, it is possible to insert the file path from the console on prompt
+3. If a bet is not valid (not having the format described in the requirements), it is ignored.
+4. If the name of the player who makes the bet corresponds to none from the initial list,
 the bet is considered invalid and is ignored.
 
